@@ -1,0 +1,9 @@
+﻿	/* Button */
+		
+		input[type="button"],
+		input[type="submit"],
+		input[type="reset"],
+		.button
+		{
+			background-image: url('Gradient.svg');
+		}
